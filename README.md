@@ -109,9 +109,9 @@ and `~/VirtualBox VMs`:
 
 This repo will here for you should you need it again.
 
+#### Post Talk Notes
+Please see this [gist](http://gist.github.com/divideby0/9100221)
+
 #### Show us some love
 
 Email info@spantree.net if you run into issues.  We'd be happy to help.
-
-
-
